@@ -1,4 +1,4 @@
-:)
+:) :D
 # VS1lab - Laborübungen Verteilte Systeme 1
 
 Ziel des Labors ist die praktische Anwendung verschiedener Web Technologien aus
